@@ -1,0 +1,15 @@
+.profile-head {
+    transform: translateY(5rem)
+}
+
+.cover {
+    background-image: url('../img/pexels-marta-wave-5876828.jpg');
+    background-size: cover;
+    background-repeat: no-repeat
+}
+
+body {
+    background: #654ea3;
+    background: linear-gradient(to right, #e71058, #fdc844);
+    min-height: 100vh
+}
